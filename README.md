@@ -1,6 +1,6 @@
 # php2021project
 下載後請更改以下文件內容:  
-1.connMysql.php: 
+1.connMysql.php:   
 $db_password  
 $db_name  
                  
