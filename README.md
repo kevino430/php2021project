@@ -1,15 +1,18 @@
 # php2021project
-下載後請更改以下文件內容:
-1.connMysql.php: $db_password
-                 $db_name
+下載後請更改以下文件內容:  
+1.connMysql.php: 
+$db_password
+$db_name  
                  
-2.member/m_passmail.php: $mail->Username  
-                         $mail->Password  
-                         $mail->Subject  
+2.member/m_passmail.php:  
+$mail->Username  
+$mail->Password  
+$mail->Subject  
   
-3.cart/cartreport.php: $mail->Username  
-     &nbsp                  $mail->Password  
-                       $mail->Subject  
+3.cart/cartreport.php:  
+$mail->Username  
+$mail->Password  
+$mail->Subject  
                        
 已附上sql檔 project_2021_final.sql
 
