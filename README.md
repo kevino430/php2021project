@@ -8,7 +8,7 @@
                          $mail->Subject  
   
 3.cart/cartreport.php: $mail->Username  
-                       $mail->Password  
+     &nbsp                  $mail->Password  
                        $mail->Subject  
                        
 已附上sql檔 project_2021_final.sql
